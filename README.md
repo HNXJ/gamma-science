@@ -57,6 +57,16 @@ It informs the Truth plane but does not own truth gates.
 - `gamma-analysis` provides the analytical methods; Gamma Science holds the reference canon
 - `gamma-arena` displays scientific evidence on the observation surface
 
+## Foundational Ontology
+
+The shared scientific vocabulary for Gamma Labyrinth lives in `ontology/`.
+
+It defines:
+- **Core Entities**: High-level phenomena and structural components.
+- **Cell Types**: Biological classification and roles.
+- **Mechanisms**: Hypothesized biophysical processes.
+- **Metrics**: Standardized benchmarks and evidence labels.
+
 ## Scientific Claim Levels
 
 1. **Hypothesis** — proposed, not yet tested
