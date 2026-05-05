@@ -1,3 +1,13 @@
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Gamma Labyrinth Hygiene
+*.npy
+*.mat
+*.html
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

@@ -1,5 +1,25 @@
 # Gamma Science
 
+## Role in Gamma Labyrinth
+Scientific source/references/empirical grounding. Holds neuroscience source material, model rationale, and empirical grounding. Not runtime truth storage.
+
+## Plane Classification
+Science Plane.
+
+## Truth-Safety Note
+`truth_mode: truth_safe_unverified`. This repository defines the scientific substrate but does not store live runtime truth.
+
+## Coordination
+Refer to GitHub Project `gamma` for tasks and issues.
+
+## Guidelines
+Agents must verify branch/status before work.
+
+## Ignore Rules
+This repository ignores `.DS_Store`, `*.npy`, `*.mat`, and `*.html`.
+
+---
+
 ## Role in Gamma
 
 Gamma Science is the scientific validity and canon layer of the Gamma ecosystem.
