@@ -1,7 +1,7 @@
 # Gamma Science
 
 ## Role in Gamma Labyrinth
-Scientific source/references/empirical grounding. Holds neuroscience source material, model rationale, and empirical grounding. Not runtime truth storage.
+scientific source/references/empirical grounding; not runtime truth storage.
 
 ## Plane Classification
 Science Plane.
