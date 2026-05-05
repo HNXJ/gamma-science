@@ -1,5 +1,25 @@
 # Gamma Science
 
+## Role in Gamma Labyrinth
+scientific source/references/empirical grounding; not runtime truth storage.
+
+## Plane Classification
+Science Plane.
+
+## Truth-Safety Note
+`truth_mode: truth_safe_unverified`. This repository defines the scientific substrate but does not store live runtime truth.
+
+## Coordination
+Refer to GitHub Project `gamma` for tasks and issues.
+
+## Guidelines
+Agents must verify branch/status before work.
+
+## Ignore Rules
+This repository ignores `.DS_Store`, `*.npy`, `*.mat`, and `*.html`.
+
+---
+
 ## Role in Gamma
 
 Gamma Science is the scientific validity and canon layer of the Gamma ecosystem.
@@ -36,6 +56,16 @@ It informs the Truth plane but does not own truth gates.
 - `gamma` holds the runtime truth gates; Gamma Science informs but does not control them
 - `gamma-analysis` provides the analytical methods; Gamma Science holds the reference canon
 - `gamma-arena` displays scientific evidence on the observation surface
+
+## Foundational Ontology
+
+The shared scientific vocabulary for Gamma Labyrinth lives in `ontology/`.
+
+It defines:
+- **Core Entities**: High-level phenomena and structural components.
+- **Cell Types**: Biological classification and roles.
+- **Mechanisms**: Hypothesized biophysical processes.
+- **Metrics**: Standardized benchmarks and evidence labels.
 
 ## Scientific Claim Levels
 
